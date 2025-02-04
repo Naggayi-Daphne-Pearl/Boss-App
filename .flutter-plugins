@@ -1,0 +1,23 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/Users/daphnenaggayi/.pub-cache/hosted/pub.dev/cloud_firestore-5.6.1/
+cloud_firestore_web=/Users/daphnenaggayi/.pub-cache/hosted/pub.dev/cloud_firestore_web-4.4.1/
+cloud_functions=/Users/daphnenaggayi/.pub-cache/hosted/pub.dev/cloud_functions-5.3.0/
+cloud_functions_web=/Users/daphnenaggayi/.pub-cache/hosted/pub.dev/cloud_functions_web-4.10.6/
+firebase_analytics=/Users/daphnenaggayi/.pub-cache/hosted/pub.dev/firebase_analytics-11.4.0/
+firebase_analytics_web=/Users/daphnenaggayi/.pub-cache/hosted/pub.dev/firebase_analytics_web-0.5.10+6/
+firebase_auth=/Users/daphnenaggayi/.pub-cache/hosted/pub.dev/firebase_auth-5.4.0/
+firebase_auth_web=/Users/daphnenaggayi/.pub-cache/hosted/pub.dev/firebase_auth_web-5.13.6/
+firebase_core=/Users/daphnenaggayi/.pub-cache/hosted/pub.dev/firebase_core-3.10.0/
+firebase_core_web=/Users/daphnenaggayi/.pub-cache/hosted/pub.dev/firebase_core_web-2.19.0/
+fluttertoast=/Users/daphnenaggayi/.pub-cache/hosted/pub.dev/fluttertoast-8.2.10/
+path_provider=/Users/daphnenaggayi/.pub-cache/hosted/pub.dev/path_provider-2.1.5/
+path_provider_android=/Users/daphnenaggayi/.pub-cache/hosted/pub.dev/path_provider_android-2.2.15/
+path_provider_foundation=/Users/daphnenaggayi/.pub-cache/hosted/pub.dev/path_provider_foundation-2.4.1/
+path_provider_linux=/Users/daphnenaggayi/.pub-cache/hosted/pub.dev/path_provider_linux-2.2.1/
+path_provider_windows=/Users/daphnenaggayi/.pub-cache/hosted/pub.dev/path_provider_windows-2.3.0/
+shared_preferences=/Users/daphnenaggayi/.pub-cache/hosted/pub.dev/shared_preferences-2.3.5/
+shared_preferences_android=/Users/daphnenaggayi/.pub-cache/hosted/pub.dev/shared_preferences_android-2.4.1/
+shared_preferences_foundation=/Users/daphnenaggayi/.pub-cache/hosted/pub.dev/shared_preferences_foundation-2.5.4/
+shared_preferences_linux=/Users/daphnenaggayi/.pub-cache/hosted/pub.dev/shared_preferences_linux-2.4.1/
+shared_preferences_web=/Users/daphnenaggayi/.pub-cache/hosted/pub.dev/shared_preferences_web-2.4.2/
+shared_preferences_windows=/Users/daphnenaggayi/.pub-cache/hosted/pub.dev/shared_preferences_windows-2.4.1/

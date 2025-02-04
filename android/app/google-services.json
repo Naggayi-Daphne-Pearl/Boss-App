@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "770542447983",
+    "project_id": "boss-app-59402",
+    "storage_bucket": "boss-app-59402.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770542447983:android:297f4488c22787f2b50c9a",
+        "android_client_info": {
+          "package_name": "com.daphne.naggayi.boss_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsjJZhOa27ZU--JdphvM6Hl-_vt0Y8UbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770542447983:android:ea12b2386df548d0b50c9a",
+        "android_client_info": {
+          "package_name": "com.example.boss_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsjJZhOa27ZU--JdphvM6Hl-_vt0Y8UbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770542447983:android:184fceeda7064fc6b50c9a",
+        "android_client_info": {
+          "package_name": "com.example.my_boss"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsjJZhOa27ZU--JdphvM6Hl-_vt0Y8UbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
